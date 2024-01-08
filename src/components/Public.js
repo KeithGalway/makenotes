@@ -10,12 +10,12 @@ const Public = () => {
                 <p>Thank you for using MakeNotes, a web application that does excatly what the windows notes widget does.</p>
                 <address className="public__addr">
                     MakeNotes<br />
-                    20, Jalan Wijaya, Taman Abad<br />
-                    Johor Bahru, Malaysia<br />
+                    14b, McKeon St, Redcliffe<br />
+                    Perth, WA<br />
                     <a href="tel:+61411803301">0411 803 301</a>
                 </address>
                 <br />
-                <p>Mr Pad</p>
+                <p>Keith Galway</p>
             </main>
             <footer>
                 <Link to="/login">Staff Login</Link>
